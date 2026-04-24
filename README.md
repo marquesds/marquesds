@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Marques-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://lucasmarques.me">
-    <img src="https://img.shields.io/badge/Blog-lucasmarques.me-231F20?style=flat&logo=githubpages" alt="Blog" />
+    <img src="https://img.shields.io/badge/Blog-lucasmarques.me-231F20?style=flat&logo=jekyll" alt="Blog" />
   </a>
   <a href="https://github.com/marquesds?tab=followers">
     <img src="https://img.shields.io/github/followers/marquesds?label=Followers&style=flat" alt="Followers" />
