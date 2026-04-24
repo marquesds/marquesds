@@ -69,7 +69,7 @@
 ## Toolbox
 
 **Languages**  
-`Python` `Kotlin` `Scala` `TypeScript` `JavaScript` `Elixir` `Clojure` `Java`
+`Python` `Kotlin` `Scala` `TypeScript` `JavaScript` `Elixir` `Rust` `Clojure` `Java`
 
 **Backend / Architecture**  
 `Django` `FastAPI` `Flask` `NestJS` `Spring` `Phoenix` `Akka` `SQLAlchemy`
@@ -78,7 +78,7 @@
 `Kafka` `RabbitMQ` `Temporal` `PostgreSQL` `Redis` `Elasticsearch`
 
 **Cloud / Infra**  
-`AWS` `Docker` `Kubernetes` `Datadog` `Vercel`
+`AWS` `Railway` `Vercel` `Docker` `Kubernetes` `Datadog` `Posthog`
 
 ---
 
