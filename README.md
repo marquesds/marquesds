@@ -1,7 +1,7 @@
 <h1 align="center">Lucas Marques 👋</h1>
 
 <p align="center">
-  <strong>Staff-level Software Engineer • Distributed Systems • Fintech • AI Workflows</strong>
+  <strong>Staff-level Software Engineer • Distributed Systems • Fintech • Healthtech • AI Workflows</strong>
 </p>
 
 <p align="center">
