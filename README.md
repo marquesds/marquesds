@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Marques-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://lucasmarques.me">
-    <img src="https://img.shields.io/badge/Blog-lucasmarques.me-black?style=flat&logo=githubpages" alt="Blog" />
+    <img src="https://img.shields.io/badge/Blog-lucasmarques.me-231F20?style=flat&logo=githubpages" alt="Blog" />
   </a>
   <a href="https://github.com/marquesds?tab=followers">
     <img src="https://img.shields.io/github/followers/marquesds?label=Followers&style=flat" alt="Followers" />
@@ -24,12 +24,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Expert-DC322F?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-Strong-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scala-Strong-DC322F?style=flat&logo=scala&logoColor=white" />
-  <img src="https://img.shields.io/badge/Temporal-Workflow%20Orchestration-000000?style=flat" />
+  <img src="https://img.shields.io/badge/Scala-Strong-7F52FF?style=flat&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elixir-Strong-7F52FF?style=flat&logo=elixir&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-Strong-7F52FF?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Temporal-Workflow%20Orchestration-231F20?style=flat" />
   <img src="https://img.shields.io/badge/Kafka-Event%20Driven-231F20?style=flat&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-Production%20Systems-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-Production%20Systems-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-Production%20Systems-FF9900?style=flat&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
